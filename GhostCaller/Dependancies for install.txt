@@ -1,0 +1,1 @@
+No dependancies needed only module used is binaryiscii which comes pre installed with python.
